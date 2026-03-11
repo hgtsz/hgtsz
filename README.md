@@ -10,10 +10,10 @@
 * ⚡ **Fun Fact:** Uma vez o código funcionou de primeira. Foi o dia mais tenso da minha vida.
 
 ### 🛠️ Tecnologias & Ferramentas
-![Minhas Techs](https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,docker)
+![Minhas Techs](https://skillicons.dev/icons?i=js,ts,php,laravel,react,nodejs,postgres,docker)
 
 ### 🤝 Colaboração
 Procuro projetos onde o caos seja organizado e o código seja testado (ou quase isso). Se o seu projeto não explode em `runtime`, me chama.
 
 ### 📫 Contato
-[Email](mailto:seu-email@provedor.com) | [LinkedIn](seu-link-aqui) | `Error 404: Sleep not found`
+[Email](mailto:higofreitas9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/higo-freitas-2a4184348/) | `Error 404: Sleep not found`
